@@ -1,4 +1,4 @@
-MutSPLat - SS2OMs Reachness
+## MutSPLat - SS2OMs Reachness
 
 
 # Study 1:
