@@ -1,7 +1,3 @@
-<h2 align="center">
-Are the Mutations of Strongly Subsuming Second-Order Mutants Actually Masking Each Other?</h2>
-</h2>
-
 ### Online repository for the experimental artifacts of the paper submited to ISSTA'23.
 
 
