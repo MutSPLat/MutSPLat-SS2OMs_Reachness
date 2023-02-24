@@ -1,4 +1,7 @@
-# MutSPLat - SS2OMs Reachness
+## Are the Mutations of Strongly Subsuming Second-Order Mutants Actually Masking Each Other?
+
+
+### Online repository for the experimental artifacts of the paper submited to ISSTA'23.
 
 
 ## Study 1:
