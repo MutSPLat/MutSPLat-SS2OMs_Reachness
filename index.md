@@ -1,27 +1,5 @@
 ### The paper contains two complementary studies.
 
+* #### In [Study 1](https://github.com/MutSPLat/MutSPLat-SS2OMs_Reachness/tree/main/Study1), we investigate whether one of the SS2OMs' constituent FOMs is reaching the other.
 
-### Study 1:
-
-1. [link 1](https://github.com/MutSPLat/MutSPLat-SS2OMs_Reachness/blob/main/Study1/test.txt)
-
-2. [link 2](https://github.com/MutSPLat/MutSPLat-SS2OMs_Reachness/blob/main/Study1/test.txt)
-
-3. [link 3](https://github.com/MutSPLat/MutSPLat-SS2OMs_Reachness/blob/main/Study1/test.txt)
-
-4. [link 4](https://github.com/MutSPLat/MutSPLat-SS2OMs_Reachness/blob/main/Study1/test.txt)
-
-
-
-
-### Study 2:
-
-1. [link 1](https://github.com/MutSPLat/MutSPLat-SS2OMs_Reachness/blob/main/Study2/test.txt)
-
-2. [link 2](https://github.com/MutSPLat/MutSPLat-SS2OMs_Reachness/blob/main/Study2/test.txt)
-
-3. [link 3](https://github.com/MutSPLat/MutSPLat-SS2OMs_Reachness/blob/main/Study2/test.txt)
-
-
-
-Triangle killing tests:[text](https://github.com/MutSPLat/MutSPLat-SS2OMs_Reachness/blob/main/Study1/test.txt)
+* #### In [Study 2](https://github.com/MutSPLat/MutSPLat-SS2OMs_Reachness/tree/main/Study2), we propose a novel search strategy for SS2OMs taking into account a 2OM only when one of its constituent FOMs reaches the other.
